@@ -1,2 +1,2 @@
-# desenvolvimento_interface_usuario_segundo_oferecimento
+# Desenvolvimento de Interface de Usuário - Segundo Oferecimento
  Repositório com os conteúdos desenvolvidos para o módulo Desenvolvimento de Interface de Usuário do segundo oferecimento do curso CTEDS 
